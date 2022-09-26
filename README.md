@@ -1,5 +1,5 @@
 # nibbleapp
-a simple react native app (Mostly UI) 
+a simple react native app (UI - only, Redux Ready) 
 
 
 - npm install
